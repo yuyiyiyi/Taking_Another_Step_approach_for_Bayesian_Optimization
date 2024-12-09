@@ -8,5 +8,5 @@ The implementation is based on the Efficient Global Optimization (EGO) algorithm
 
 # Reference:
 
-[1] Yuqian Gui, Dawei Zhan, Tianrui Li. Taking Another Step: A Simple Approach to High-Dimensional Bayesian Optimization. Information Sciences, 2023, under review. 
+[1] Yuqian Gui, Dawei Zhan, Tianrui Li. Taking Another Step: A Simple Approach to High-Dimensional Bayesian Optimization[J]. Information Sciences, 2024, 679: 121056.
 
